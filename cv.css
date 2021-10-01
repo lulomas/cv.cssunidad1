@@ -1,0 +1,51 @@
+
+h2{background-color: rgb(198, 226, 43);
+    text-align: center;}
+    p{color: rgb(233, 38, 71);
+    font-weight: bolder;
+    font-style: italic;}
+h3{background-color: rgb(198, 226, 43);
+        text-align: center; }
+        h4{background-color: rgb(43, 226, 125);
+            text-align: center;}
+            ul{color: violet;}
+            ol{color: rgb(120, 64, 224);}
+            .destacado{
+
+                color: royalblue;
+                font-size: 20px;
+            }
+            .caja{background: #00e0ff;
+                background: linear-gradient(90deg,#00e0ff 0%, #00fff0 80%);
+                background: -webkit-linear-gradient(90deg,#00e0ff 0%, #00fff0 80%);
+                background: -moz-linear-gradient(90deg,#00e0ff 0%, #00fff0 80%);
+                box-shadow: 10px 10px 86px 0px rgba(0,0,0,0.75);
+                -webkit-box-shadow: 10px 10px 86px 0px rgba(0,0,0,0.75);
+                -moz-box-shadow: 10px 10px 86px 0px rgba(0,0,0,0.75);
+                border-radius: 10px 10px 10px 10px;
+                -webkit-border-radius: 10px 10px 10px 10px;
+                -moz-border-radius: 10px 10px 10px 10px;
+            margin: 0%;}
+            .texto{
+                background: #9e00ff;
+background: radial-gradient(circle farthest-side at top right, #9e00ff 40%, #00d1ff 20%);
+background: -webkit-radial-gradient(circle farthest-side at top right, #9e00ff 40%, #00d1ff 20%);
+background: -moz-radial-gradient(circle farthest-side at top right, #9e00ff 40%, #00d1ff 20%);
+border-radius: 10px 10px 10px 10px;
+-webkit-border-radius: 10px 10px 10px 10px;
+-moz-border-radius: 10px 10px 10px 10px;
+column-count: 4;
+-webkit-column-count: 4;
+-moz-column-count: 4;
+column-gap: 15px;
+-webkit-column-gap: 15px;
+-moz-column-gap: 15px;
+column-rule: 2px dotted #000000;
+-webkit-column-rule: 2px dotted #000000;
+-moz-column-rule: 2px dotted #000000;
+            }
+            h1,h2,h3,h4{font-family: 'Bebas Neue', cursive;}
+            p{font-family: 'Italianno', cursive;}
+
+            .iconos{color: rgb(195, 0, 255);font-size: 50px;text-align: center;}
+
